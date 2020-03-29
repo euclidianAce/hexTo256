@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="terminal" baseProfile="full" viewBox="0 0 616 716" width="616" version="1.1">
+    <defs>
+        <termtosvg:template_settings xmlns:termtosvg="https://github.com/nbedos/termtosvg">
+            <termtosvg:screen_geometry columns="77" rows="42"/>
+            <termtosvg:animation type="css"/>
+        </termtosvg:template_settings>
+        <style type="text/css" id="generated-style"><![CDATA[#screen {
+                font-family: 'DejaVu Sans Mono', monospace;
+                font-style: normal;
+                font-size: 14px;
+            }
+
+        text {
+            dominant-baseline: text-before-edge;
+            white-space: pre;
+        }
+    ]]></style>
+        <style type="text/css" id="user-style">
+            /* The colors defined below are the default 16 colors used for rendering text of the terminal. Adjust
+               them as needed.
+               PowerShell colors based on https://en.wikipedia.org/wiki/ANSI_escape_code#Colors */
+            .foreground {fill: #cccccc;}
+            .background {fill: #0c0c0c;}
+            .color0 {fill: #0c0c0c;}
+            .color1 {fill: #c50f1f;}
+            .color2 {fill: #13a10e;}
+            .color3 {fill: #c19c00;}
+            .color4 {fill: #0037da;}
+            .color5 {fill: #881798;}
+            .color6 {fill: #3a96dd;}
+            .color7 {fill: #cccccc;}
+            .color8 {fill: #767676;}
+            .color9 {fill: #e74856;}
+            .color10 {fill: #16c60c;}
+            .color11 {fill: #f9f1a5;}
+            .color12 {fill: #3b78ff;}
+            .color13 {fill: #b4009e;}
+            .color14 {fill: #61d6d6;}
+            .color15 {fill: #f2f2f2;}
+        </style>
+    </defs>
+    <svg id="screen" width="616" height="714" viewBox="0 0 616 714" preserveAspectRatio="xMidYMin slice">
+    <rect class="background" height="100%" width="100%" x="0" y="0"/><defs><g id="g1"><text x="0" textLength="392" class="color6">   &#9484;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9516;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9516;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9516;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9488;</text></g><g id="g2"><text x="0" textLength="32" class="color6">&#9484;&#9472;&#9472;&#9508;</text><text x="32" textLength="64" class="color7">03:38:45</text><text x="96" textLength="8" class="color6">&#9474;</text><text x="104" textLength="104" class="color1">corey@desktop</text><text x="208" textLength="8" class="color6">&#9474;</text><text x="216" textLength="112" font-weight="bold" class="color12">~/dev/ctermRGB</text><text x="328" textLength="8" class="color6">&#9474;</text><text x="336" textLength="48" class="color2">* none</text><text x="384" textLength="232" class="color6">&#9500;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9508;</text></g><g id="g3"><text x="0" textLength="392" class="color6">&#9474;  &#9492;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9524;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9524;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9524;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9496;</text></g><g id="g4"><text x="0" textLength="16" class="color6">&#9492;&#9508;</text><text x="16" textLength="8" font-weight="bold" class="color13">$</text><text x="24" textLength="288" class="foreground"> ./hexTo256.lua 00f4ee f2e101 3090e2</text></g><g id="g5"><text x="0" textLength="256" class="foreground">|orig.  |~&gt;|preview|approx.|id.|</text></g><g id="g6"><text x="0" textLength="256" class="foreground">|-------|--|-------|-------|---|</text></g><g id="g7"><text x="0" textLength="240" class="foreground"> #00f4ee ~&gt;         #00ffff 14</text></g><g id="g8"><text x="0" textLength="248" class="foreground"> #f2e101 ~&gt;         #ffd700 220</text></g><g id="g9"><text x="0" textLength="240" class="foreground"> #3090e2 ~&gt;         #5f87d7 68</text></g><g id="g10"><text x="0" textLength="32" class="color6">&#9484;&#9472;&#9472;&#9508;</text><text x="32" textLength="64" class="color7">03:38:46</text><text x="96" textLength="8" class="color6">&#9474;</text><text x="104" textLength="104" class="color1">corey@desktop</text><text x="208" textLength="8" class="color6">&#9474;</text><text x="216" textLength="112" font-weight="bold" class="color12">~/dev/ctermRGB</text><text x="328" textLength="8" class="color6">&#9474;</text><text x="336" textLength="48" class="color2">* none</text><text x="384" textLength="232" class="color6">&#9500;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9508;</text></g><g id="g11"><text x="0" textLength="16" class="color6">&#9492;&#9508;</text><text x="16" textLength="8" font-weight="bold" class="color13">$</text><text x="24" textLength="8" class="foreground"> </text><text x="32" textLength="8" class="background"> </text></g></defs><g><use xlink:href="#g1" y="0"/><use xlink:href="#g2" y="17"/><use xlink:href="#g3" y="34"/><use xlink:href="#g4" y="51"/><use xlink:href="#g5" y="68"/><use xlink:href="#g6" y="85"/><rect x="96" y="102" width="56" height="17" class="color14"/><use xlink:href="#g7" y="102"/><rect x="96" y="119" width="56" height="17" fill="#ffd700"/><use xlink:href="#g8" y="119"/><rect x="96" y="136" width="56" height="17" fill="#5f87d7"/><use xlink:href="#g9" y="136"/><use xlink:href="#g1" y="153"/><use xlink:href="#g10" y="170"/><use xlink:href="#g3" y="187"/><rect x="32" y="204" width="8" height="17" class="foreground"/><use xlink:href="#g11" y="204"/></g></svg>
+</svg>
