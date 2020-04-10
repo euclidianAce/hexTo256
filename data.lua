@@ -1,3 +1,5 @@
+-- Color data gotten from:
+-- https://jonasjacek.github.io/colors/
 return {
  {
   colorId=0,
