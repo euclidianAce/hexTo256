@@ -57,7 +57,7 @@ local reset = esc .. "0m"
 for i, v in ipairs(args) do
 	local c = v.data
 	local orig = {hexToRGB(v.hexString)}
-	print((" #%s %s48;2;%d;%d;%dm       %s ~> %s48;5;%dm       %s %s % 3d "):format(
+	print((" #%s %s48;2;%d;%d;%dm       %s ~> %s48;5;%dm       %s %s% 3d "):format(
 		v.hexString, esc, orig[1], orig[2], orig[3], reset,
 		esc, c.colorId, reset, c.hexString, c.colorId
 	))
